@@ -1,0 +1,40 @@
+.form{
+    text-align: left;
+    margin-right: 5%;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.1rem;
+    font-size: 0.8em;
+}
+
+input{
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;   
+}
+
+button{
+    cursor: pointer;
+    background-color: #000000;
+    color: #fff;
+    padding: 1em 5em ;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.input-sm{
+    width: 50%;
+}
+.input-md{
+    width: 70%;
+}
+
